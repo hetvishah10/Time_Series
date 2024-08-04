@@ -1,7 +1,8 @@
 time_series
 ==============================
 
-A short description of the project.
+Time Series using ARIMA. 
+Apple Stock Price Prediction
 
 Project Organization
 ------------
